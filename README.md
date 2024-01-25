@@ -1,1 +1,2 @@
-# Create_Subsequence_string
+
+2 ka power n == include itselfsame , " "
